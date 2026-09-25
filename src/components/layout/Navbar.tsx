@@ -23,7 +23,7 @@ export const Navbar: React.FC = () => {
               <div className="p-2 bg-primary-50 rounded-lg border border-primary-100">
                 <Package className="w-5 h-5 text-primary-600" />
               </div>
-              <span>Nexus Admin</span>
+              <span>Apex Admin</span>
             </Link>
           </div>
 

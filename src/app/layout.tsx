@@ -5,7 +5,7 @@ import { ProductProvider } from '@/context/ProductContext';
 import { Navbar } from '@/components/layout/Navbar';
 
 export const metadata: Metadata = {
-  title: 'Nexus - Product Admin Dashboard',
+  title: 'Apex - Product Admin Dashboard',
   description: 'Production-quality product administration dashboard built with Next.js App Router, TypeScript, and Axios.',
 };
 

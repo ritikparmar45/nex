@@ -1,14 +1,14 @@
-# Nexus - Production-Quality Product Admin Dashboard
+# Apex - Production-Quality Product Admin Dashboard
 
 A responsive, high-performance, accessible **Product Admin Dashboard** built with **Next.js (App Router)**, **React**, **TypeScript**, **Tailwind CSS**, and **Axios**, using the free [DummyJSON API](https://dummyjson.com).
 
-![Nexus Product Admin Dashboard](https://raw.githubusercontent.com/dummyjson/dummyjson/master/assets/dummyjson-banner.png)
+![Apex Product Admin Dashboard](https://raw.githubusercontent.com/dummyjson/dummyjson/master/assets/dummyjson-banner.png)
 
 ---
 
 ## 🌟 Project Overview
 
-Nexus is a SaaS-grade Product Administration Portal designed for managing ecommerce product catalogs. It provides authentication, search, category filtering, server-side sorting, URL parameter state synchronization, responsive table & grid views, dynamic product detail inspection, and CRUD operations (Add, Edit, Delete) with session-persisted client-side mutation management.
+Apex is a SaaS-grade Product Administration Portal designed for managing ecommerce product catalogs. It provides authentication, search, category filtering, server-side sorting, URL parameter state synchronization, responsive table & grid views, dynamic product detail inspection, and CRUD operations (Add, Edit, Delete) with session-persisted client-side mutation management.
 
 ---
 
